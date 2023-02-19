@@ -15,16 +15,16 @@ We a revolutionizing the Stoneworks business sector by introducing real world we
 
 ### Developers
 Our Developers that work with clients to create a website that meets the requirements.
-- ![@Redstoneguy129](https://dcbadge.vercel.app/api/shield/267350200744542209)
-- ![@IrishAkita](https://dcbadge.vercel.app/api/shield/564621328393568267)
+- Redstoneguy129#0084
+- IrishAkita#3015
 
 ### Designers
 Our Designers spend their time contributing to our open source ui library that we use to develop our client websites. You don't have to be on the team to contribute but designers earn weekly depending on their contributions.
-- ![@IrishAkita](https://dcbadge.vercel.app/api/shield/564621328393568267)
+- IrishAkita#3015
 
 ### Triage
 Our Triage team is ready to debug and help with any issues that occur, whether it be with a client website or in the open source ui library. They are ready to test new releases and provide solutions to existing issues.
-- ![@Redstoneguy129](https://dcbadge.vercel.app/api/shield/267350200744542209)
+- Redstoneguy129#0084
 ## 📄 FAQ
 
 #### How can i join the team?
